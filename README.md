@@ -22,7 +22,8 @@ Desarrollé un pipeline de procesamiento de video **offline** que utiliza Inteli
 
 
 ## 📈 Análisis de Rendimiento (Benchmarking)
-Como Data Scientist, el monitoreo de métricas es fundamental. Resultados obtenidos en una prueba con un video de **115 cuadros (3 segundos)**:
+Como Data Scientist, el monitoreo de métricas es fundamental. 
+Resultados obtenidos en una prueba con un video de **115 cuadros (3 segundos)**:
 
 | Métrica | Resultado |
 | :--- | :--- |
