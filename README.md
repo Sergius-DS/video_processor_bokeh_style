@@ -11,8 +11,8 @@ Desarrollé un pipeline de procesamiento de video **offline** que utiliza Inteli
 
 
 
-## 🧠 Características Técnicas (ML & CV)
-Para elevar este script a un estándar de **Data Science**, implementé:
+## 🧠 Características Técnicas
+
 
 * **Segmentación Semántica:** Integración de modelos ligeros **TFLite (MediaPipe)** optimizados con delegados XNNPACK para CPU.
 * **Estabilidad Temporal:** Implementación de **Flujo Óptico (Farneback)** para que la máscara "siga" el movimiento del usuario, eliminando el parpadeo visual (*flickering*).
